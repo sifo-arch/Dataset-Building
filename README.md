@@ -5,7 +5,7 @@ and AI within the same document.
 The complete version of the dataset is stored in the file "dataset.csv".
 
 ## Contents
-Number of samples: 1000
+Number of samples: 1000  
 Columns:
 - index: the index of the example.
 - url: the url where the Arabic text is obtained (None).
