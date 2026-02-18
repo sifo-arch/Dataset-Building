@@ -6,7 +6,7 @@ The dataset has been carefully investigated and the content within it is consist
 The complete version of the dataset is stored in the file "dataset.csv".
 
 ## Contents of the dataset
-Number of samples: 7000
+Number of samples: 7000  
 Columns:
 - index: the index of the example.
 - url: the url where the Arabic text is obtained (None).
