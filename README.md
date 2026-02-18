@@ -16,8 +16,8 @@ Columns:
 - generated_by: the LLM used to add the AI text.
 
 ## LLMs used to expanded articles
-GPT-oss (3500 samples)
-Cogito v2.1 (3500 samples)
+GPT-oss (3500 samples)  
+Cogito v2.1 (3500 samples)  
 Note: I did not use Gemeini because google is no more providing 250 RPD, it provides only 20 RPD. However, Gemeini 3 flash preview is not expensive, I can expand the dataset to 10000 samples by adding another 3000 articles edited by Gemini.
 
 ## Source
